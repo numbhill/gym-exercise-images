@@ -17,69 +17,69 @@ GitHub does not keep empty folders, so each folder contains a `.gitkeep` placeho
 
 ## Required image filenames
 
-Use lowercase names with hyphens. Prefer `.png` for consistency.
+Use lowercase names with hyphens. Prefer `.webp` for consistency.
 
 ### Chest
 
 ```text
-chest/bench-press.png
-chest/incline-bench-press.png
-chest/incline-dumbbell-press.png
-chest/flat-dumbbell-press.png
-chest/machine-chest-press.png
-chest/cable-fly.png
+chest/bench-press.webp
+chest/incline-bench-press.webp
+chest/incline-dumbbell-press.webp
+chest/flat-dumbbell-press.webp
+chest/machine-chest-press.webp
+chest/cable-fly.webp
 ```
 
 ### Back
 
 ```text
-back/pull-ups.png
-back/lat-pulldown.png
-back/one-arm-cable-lat-pulldown.png
-back/chest-supported-row.png
-back/seated-cable-row.png
+back/pull-ups.webp
+back/lat-pulldown.webp
+back/one-arm-cable-lat-pulldown.webp
+back/chest-supported-row.webp
+back/seated-cable-row.webp
 ```
 
 ### Shoulders
 
 ```text
-shoulders/overhead-press.png
-shoulders/seated-dumbbell-shoulder-press.png
-shoulders/cable-lateral-raise.png
-shoulders/rear-delt-fly.png
-shoulders/face-pull.png
+shoulders/overhead-press.webp
+shoulders/seated-dumbbell-shoulder-press.webp
+shoulders/cable-lateral-raise.webp
+shoulders/rear-delt-fly.webp
+shoulders/face-pull.webp
 ```
 
 ### Legs
 
 ```text
-legs/squat.png
-legs/romanian-deadlift.png
-legs/leg-press.png
-legs/leg-curl.png
-legs/standing-calf-raise.png
-legs/hack-squat.png
-legs/front-squat.png
-legs/bulgarian-split-squat.png
-legs/leg-extension.png
-legs/calf-raise.png
+legs/squat.webp
+legs/romanian-deadlift.webp
+legs/leg-press.webp
+legs/leg-curl.webp
+legs/standing-calf-raise.webp
+legs/hack-squat.webp
+legs/front-squat.webp
+legs/bulgarian-split-squat.webp
+legs/leg-extension.webp
+legs/calf-raise.webp
 ```
 
 ### Arms
 
 ```text
-arms/rope-pushdown.png
-arms/overhead-cable-triceps-extension.png
-arms/incline-dumbbell-curl.png
-arms/dumbbell-curl.png
-arms/cable-curl.png
+arms/rope-pushdown.webp
+arms/overhead-cable-triceps-extension.webp
+arms/incline-dumbbell-curl.webp
+arms/dumbbell-curl.webp
+arms/cable-curl.webp
 ```
 
 ### Abs
 
 ```text
-abs/cable-crunch.png
-abs/hanging-knee-raise.png
+abs/cable-crunch.webp
+abs/hanging-knee-raise.webp
 ```
 
 ## Raw URL pattern
@@ -87,13 +87,13 @@ abs/hanging-knee-raise.png
 After uploading images, each image can be used in Notion with this pattern:
 
 ```text
-https://raw.githubusercontent.com/numbhill/gym-exercise-images/master/<folder>/<file-name>.png
+https://raw.githubusercontent.com/numbhill/gym-exercise-images/master/<folder>/<file-name>.webp
 ```
 
 Example:
 
 ```text
-https://raw.githubusercontent.com/numbhill/gym-exercise-images/master/chest/bench-press.png
+https://raw.githubusercontent.com/numbhill/gym-exercise-images/master/chest/bench-press.webp
 ```
 
 ## Workflow
@@ -108,3 +108,4 @@ https://raw.githubusercontent.com/numbhill/gym-exercise-images/master/chest/benc
 - Use images you have permission to use.
 - Wikimedia Commons and open-source exercise image datasets are preferred.
 - Avoid random Google Images when possible.
+
